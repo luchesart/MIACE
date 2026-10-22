@@ -1,0 +1,9 @@
+.lake/
+*.olean
+*.ilean
+*.pyc
+__pycache__/
+audit.log
+map-qa.json
+.DS_Store
+Thumbs.db
